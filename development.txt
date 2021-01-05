@@ -13,6 +13,6 @@ bandit==1.5.1
 pytest-xdist==2.1.0
 flask_profiler==1.8.1
 pytest-cov==2.10.1
-sphinx_rtd_theme==0.4.3
+sphinx_rtd_theme==0.5.1
 flask-debugtoolbar==0.10.1
 flake8-isort==4.0.0
